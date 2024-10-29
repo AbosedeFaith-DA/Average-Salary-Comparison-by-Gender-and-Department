@@ -1,4 +1,4 @@
-# Average-Salary-Comparison-by-Gender-and-DepartmentAverage employee salary (since 1990)
+# Average employee salary (since 1990)
 
 # Project Objective
 The objective of this project is to conduct a detailed analysis of salary distributions by gender across departments within specified salary ranges, as defined by user inputs. This analysis utilizes a dynamic SQL stored procedure to retrieve the average salaries of male and female employees per department, constrained to a user-defined salary band. The findings are visualized in Tableau through a dual bar chart, providing a clear comparison of gender-based salary distribution across departments. This project aims to support informed assessments of compensation structures and foster data-driven strategies to promote pay equity within the organization.
