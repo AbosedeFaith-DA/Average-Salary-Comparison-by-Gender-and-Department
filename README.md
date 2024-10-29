@@ -14,4 +14,17 @@ Finally, visualize the obtained result-set in Tableau as a double bar chart.
 - Data Visualization in Tableau
 - Final Touches
   # Dashboard
-  ![Screenshot 2024-10-29 103308](https://github.com/user-attachments/assets/840dc4bc-ce04-493e-bfb4-3892d91379a0)
+  ![Screenshot 2024-10-29 103308](https://github.com/user-attachments/assets/840dc4bc-ce04-493e-bfb4-3892d91379a0
+
+  # Project Insights
+Consistent Salary Trends Across Departments:
+The chart indicates that average salaries for male and female employees have remained relatively stable across departments, with limited fluctuations within the specified salary range.
+
+Gender-Based Salary Comparison:
+In most departments, there is a consistent pattern where male employees tend to have a slightly higher average salary than female employees, although the difference is often minimal.
+Departments such as Finance, Sales, and Marketing show some of the more noticeable differences in average salaries between genders, with male employees earning slightly more on average.
+Departmental Parity Observed in Certain Areas:
+Some departments, like Customer Service and Quality Management, show close parity between male and female salaries, highlighting areas where the company may have achieved or is approaching gender pay equality.
+
+# Final Conclusion
+This analysis offers valuable insights into salary distributions by gender across departments. It suggests that while there is generally alignment between male and female salaries, specific departments may warrant further investigation to ensure that any discrepancies are understood and addressed where necessary. This level of analysis can support organizational efforts toward equitable compensation practices and aid in fostering a fair workplace culture.
