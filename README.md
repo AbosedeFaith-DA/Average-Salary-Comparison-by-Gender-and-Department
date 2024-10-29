@@ -14,7 +14,8 @@ Finally, visualize the obtained result-set in Tableau as a double bar chart.
 - Data Visualization in Tableau
 - Final Touches
   # Dashboard
-  ![Screenshot 2024-10-29 103308](https://github.com/user-attachments/assets/840dc4bc-ce04-493e-bfb4-3892d91379a0
+  ![Screenshot 2024-10-29 103308](https://github.com/user-attachments/assets/552bef11-27ec-4c12-a432-42c928572505)
+
 
   # Project Insights
 Consistent Salary Trends Across Departments:
